@@ -17,18 +17,17 @@
 <br/>
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║  "The best design is invisible —                            ║
-║   reducing friction and anticipating needs                  ║
-║   to help people achieve their goals effortlessly."         ║
-╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+  "Most designers chase Aesthetics. I chase clarity.    Because nobody remembers how it looked. They remember How it Made them feel."         
+╚══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
 
 ## About
 
-I'm a design-driven UI/UX Designer dedicated to crafting clear, intuitive interfaces that solve real user problems. Currently at **Softvance Delta**, I specialize in turning complex requirements into practical solutions for **healthcare**, **fintech**, and **SaaS** products — collaborating closely with cross-functional teams to deliver user-centred results.
+I am a design-driven UI/UX Designer dedicated to crafting clear, intuitive interfaces that solve real user problems. My philosophy is that the best design is invisible—reducing friction and anticipating needs to help people achieve their goals effortlessly
+Currently at Softvance, I specialize in turning complex requirements into practical solutions for healthcare, fintech, and SaaS products, collaborating closely with cross-functional teams to deliver user-cantered results.
 
 <br/>
 
@@ -36,13 +35,13 @@ I'm a design-driven UI/UX Designer dedicated to crafting clear, intuitive interf
 
 **`UI/UX Designer — On-Site`** &nbsp;&nbsp; **Softvance Delta** &nbsp;&nbsp; `Feb 2025 – Present`
 
-> Working across healthcare, fintech, and SaaS products. From wireframes to high-fidelity designs, every step is guided by clarity and real user needs. Because when products feel simple, users don't notice the effort behind them.
+> Working across healthcare, fintech, and SaaS products, where complexity is part of the job. I focus on turning messy requirements into clean, structured, and usable experiences. From wireframes to high-fidelity designs, every step is guided by clarity and real user needs. Because when products feel simple, users don’t notice the effort behind them.
 
 ---
 
 **`Jr. UI/UX Designer — Remote`** &nbsp;&nbsp; **Heva (Tele-health Platform)** &nbsp;&nbsp; `Aug 2024 – Feb 2025`
 
-> Redesigned the full onboarding journey — simplifying steps, improving flow, removing unnecessary friction. Because in healthcare, confusion doesn't just frustrate — it blocks access.
+> The onboarding experience was slow, confusing, and causing users to drop off early. I redesigned the full journey to make it faster, clearer, and easier to complete. Focused on simplifying steps, improving flow, and removing unnecessary friction points. Because in healthcare, confusion doesn’t just frustrate — it blocks access.
 
 <br/>
 
