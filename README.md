@@ -17,9 +17,11 @@
 <br/>
 
 ```
-╔══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
-  "Most designers chase Aesthetics. I chase clarity.    Because nobody remembers how it looked. They remember How it Made them feel."         
-╚══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+╔═════════════════════════════════════════════════════╗
+  "Most designers chase Aesthetics. I chase clarity.
+  Because nobody remembers how it looked.
+  They remember How it Made them feel."         
+╚═════════════════════════════════════════════════════╝
 ```
 
 <br/>
