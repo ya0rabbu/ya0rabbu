@@ -11,8 +11,6 @@
 [![Dribbble](https://img.shields.io/badge/Dribbble-%23EA4C89.svg?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/yasirabedrabbu)
 [![Behance](https://img.shields.io/badge/Behance-%231769FF.svg?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/yasirabedrabbu)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Ya_Rabbu)
-[![Fiverr](https://img.shields.io/badge/Fiverr-ui--panda-%231DBF73.svg?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/ui-panda)
-[![Fiverr](https://img.shields.io/badge/Fiverr-skylork-%231DBF73.svg?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/skylork)
 
 </div>
 
