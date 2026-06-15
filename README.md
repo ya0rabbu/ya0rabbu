@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="./assets/banner.png" alt="Yasir Abed Rabbu - UI/UX Designer Banner" width="100%" />
+
+<br/><br/>
+
 # Yasir Abed Rabbu
 ### UI/UX Designer · Product Lead · Dhaka, Bangladesh
 
